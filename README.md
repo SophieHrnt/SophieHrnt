@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SophieHrnt">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello%20!%20I'm%20Sophie%20!%20%7C%20Salut%20!%20Je%20suis%20Sophie%20!" alt="Hello ! I&#39;m Sophie ! | Salut ! Je suis Sophie !" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=730&text=Hello%20!%20I'm%20Sophie%20!" alt="Hello ! I&#39;m Sophie !" />
   </a>
 </p>
 
